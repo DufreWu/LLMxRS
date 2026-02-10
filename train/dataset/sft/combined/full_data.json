@@ -1,0 +1,3314 @@
+[
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 0.5 m/s\n- CPU utilization: 87%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 0.5 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.22 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 1.9 m/s\n- CPU utilization: 37%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 1.9 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 1.9 m/s\n- CPU utilization: 8%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 1.9 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 1.9 m/s\n- CPU utilization: 12%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 1.9 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 1.9 m/s\n- CPU utilization: 17%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 1.9 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 1.9 m/s\n- CPU utilization: 88%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 1.9 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 1.9 m/s\n- CPU utilization: 77%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 1.9 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 1.9 m/s\n- CPU utilization: 88%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 1.9 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 1.9 m/s\n- CPU utilization: 95%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 1.9 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 1.9 m/s\n- CPU utilization: 58%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 1.9 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 1.9 m/s\n- CPU utilization: 52%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 1.9 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 1.9 m/s\n- CPU utilization: 77%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 1.9 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 1.9 m/s\n- CPU utilization: 41%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 1.9 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 1.9 m/s\n- CPU utilization: 27%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 1.9 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 1.9 m/s\n- CPU utilization: 33%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 1.9 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 1.9 m/s\n- CPU utilization: 33%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 1.9 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 1.9 m/s\n- CPU utilization: 73%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 1.9 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 1.9 m/s\n- CPU utilization: 97%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 1.9 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 1.9 m/s\n- CPU utilization: 40%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 1.9 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 1.9 m/s\n- CPU utilization: 72%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 1.9 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 1.9 m/s\n- CPU utilization: 95%\n- GPU utilization: 0%\n- Application requirement pressure: moderate\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the moderate application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.5 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 1.9 m/s\n- CPU utilization: 98%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 1.9 m/s\n- CPU frequency: 1.27 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 3.9 m/s\n- CPU utilization: 43%\n- GPU utilization: 0%\n- Application requirement pressure: low\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.5 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 3.9 m/s\n- CPU utilization: 51%\n- GPU utilization: 0%\n- Application requirement pressure: low\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.5 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 3.9 m/s\n- CPU utilization: 64%\n- GPU utilization: 0%\n- Application requirement pressure: low\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.5 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 3.9 m/s\n- CPU utilization: 46%\n- GPU utilization: 0%\n- Application requirement pressure: low\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.5 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 3.9 m/s\n- CPU utilization: 56%\n- GPU utilization: 0%\n- Application requirement pressure: low\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.5 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 3.9 m/s\n- CPU utilization: 75%\n- GPU utilization: 0%\n- Application requirement pressure: low\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.5 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 3.9 m/s\n- CPU utilization: 84%\n- GPU utilization: 0%\n- Application requirement pressure: low\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.5 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 3.9 m/s\n- CPU utilization: 86%\n- GPU utilization: 0%\n- Application requirement pressure: low\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.5 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 3.9 m/s\n- CPU utilization: 88%\n- GPU utilization: 0%\n- Application requirement pressure: low\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.5 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 3.9 m/s\n- CPU utilization: 95%\n- GPU utilization: 0%\n- Application requirement pressure: moderate\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the moderate application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.5 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 3.9 m/s\n- CPU utilization: 97%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 3.9 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 3.9 m/s\n- CPU utilization: 100%\n- GPU utilization: 59%\n- Application requirement pressure: moderate\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the moderate application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.5 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.73 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.2 m/s\n- CPU utilization: 58%\n- GPU utilization: 0%\n- Application requirement pressure: moderate\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the moderate application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.7 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.80 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.2 m/s\n- CPU utilization: 53%\n- GPU utilization: 0%\n- Application requirement pressure: low\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.7 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.80 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.2 m/s\n- CPU utilization: 53%\n- GPU utilization: 94%\n- Application requirement pressure: low\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.7 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.80 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.2 m/s\n- CPU utilization: 57%\n- GPU utilization: 94%\n- Application requirement pressure: low\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.7 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.80 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.2 m/s\n- CPU utilization: 48%\n- GPU utilization: 0%\n- Application requirement pressure: low\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.7 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.80 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.2 m/s\n- CPU utilization: 54%\n- GPU utilization: 100%\n- Application requirement pressure: low\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.7 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.80 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.2 m/s\n- CPU utilization: 57%\n- GPU utilization: 98%\n- Application requirement pressure: low\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.7 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.80 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.2 m/s\n- CPU utilization: 57%\n- GPU utilization: 0%\n- Application requirement pressure: low\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.7 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.80 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.2 m/s\n- CPU utilization: 48%\n- GPU utilization: 0%\n- Application requirement pressure: low\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.7 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.80 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.2 m/s\n- CPU utilization: 69%\n- GPU utilization: 36%\n- Application requirement pressure: moderate\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the moderate application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.7 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.80 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.2 m/s\n- CPU utilization: 80%\n- GPU utilization: 0%\n- Application requirement pressure: moderate\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the moderate application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.7 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.80 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.2 m/s\n- CPU utilization: 98%\n- GPU utilization: 9%\n- Application requirement pressure: moderate\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the moderate application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.7 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.80 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 51%\n- GPU utilization: 247%\n- Application requirement pressure: low\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.6 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 36%\n- GPU utilization: 299%\n- Application requirement pressure: low\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.6 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 44%\n- GPU utilization: 229%\n- Application requirement pressure: low\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.6 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 49%\n- GPU utilization: 6%\n- Application requirement pressure: low\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.6 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 52%\n- GPU utilization: 0%\n- Application requirement pressure: low\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.6 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 43%\n- GPU utilization: 11%\n- Application requirement pressure: low\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.6 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 45%\n- GPU utilization: 168%\n- Application requirement pressure: low\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.6 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 48%\n- GPU utilization: 265%\n- Application requirement pressure: low\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.6 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 66%\n- GPU utilization: 22%\n- Application requirement pressure: moderate\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the moderate application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.6 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 68%\n- GPU utilization: 132%\n- Application requirement pressure: moderate\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the moderate application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.6 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 52%\n- GPU utilization: 147%\n- Application requirement pressure: low\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.6 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 56%\n- GPU utilization: 0%\n- Application requirement pressure: low\n- Battery SOC: 100%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.6 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 59%\n- GPU utilization: 0%\n- Application requirement pressure: moderate\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the moderate application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.6 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 48%\n- GPU utilization: 241%\n- Application requirement pressure: low\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.6 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 46%\n- GPU utilization: 23%\n- Application requirement pressure: low\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.6 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 54%\n- GPU utilization: 277%\n- Application requirement pressure: low\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.6 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 52%\n- GPU utilization: 0%\n- Application requirement pressure: low\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.6 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 44%\n- GPU utilization: 272%\n- Application requirement pressure: low\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.6 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 45%\n- GPU utilization: 89%\n- Application requirement pressure: low\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.6 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 46%\n- GPU utilization: 44%\n- Application requirement pressure: low\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.6 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 45%\n- GPU utilization: 172%\n- Application requirement pressure: low\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.6 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 45%\n- GPU utilization: 0%\n- Application requirement pressure: low\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.6 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 51%\n- GPU utilization: 0%\n- Application requirement pressure: low\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.6 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 52%\n- GPU utilization: 6%\n- Application requirement pressure: low\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.6 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 48%\n- GPU utilization: 283%\n- Application requirement pressure: low\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.6 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 54%\n- GPU utilization: 46%\n- Application requirement pressure: low\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.6 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 52%\n- GPU utilization: 220%\n- Application requirement pressure: low\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.6 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 54%\n- GPU utilization: 294%\n- Application requirement pressure: low\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.6 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 69%\n- GPU utilization: 100%\n- Application requirement pressure: low\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.6 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 99%\n- GPU utilization: 0%\n- Application requirement pressure: low\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.6 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 57%\n- GPU utilization: 0%\n- Application requirement pressure: low\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.5 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.80 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 50%\n- GPU utilization: 0%\n- Application requirement pressure: low\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.5 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.80 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 70%\n- GPU utilization: 0%\n- Application requirement pressure: moderate\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the moderate application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.5 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.80 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 64%\n- GPU utilization: 0%\n- Application requirement pressure: moderate\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the moderate application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.5 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.80 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 61%\n- GPU utilization: 0%\n- Application requirement pressure: low\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.5 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.80 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 91%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 1.12 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 90%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 1.12 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 96%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 1.12 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 94%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 1.12 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 86%\n- GPU utilization: 0%\n- Application requirement pressure: moderate\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the moderate application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.5 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.80 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 90%\n- GPU utilization: 0%\n- Application requirement pressure: moderate\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the moderate application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.5 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.80 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 95%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 1.12 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 77%\n- GPU utilization: 0%\n- Application requirement pressure: moderate\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the moderate application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.5 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.80 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 81%\n- GPU utilization: 0%\n- Application requirement pressure: moderate\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the moderate application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.5 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.80 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 70%\n- GPU utilization: 0%\n- Application requirement pressure: moderate\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the moderate application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.5 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.80 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 67%\n- GPU utilization: 0%\n- Application requirement pressure: moderate\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the moderate application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.5 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.80 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 64%\n- GPU utilization: 0%\n- Application requirement pressure: low\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.5 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.80 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 68%\n- GPU utilization: 1%\n- Application requirement pressure: moderate\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the moderate application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.5 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.80 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 84%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 1.12 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 98%\n- GPU utilization: 82%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at high GPU utilization increases computational power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 1.12 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 41%\n- GPU utilization: 197%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 39%\n- GPU utilization: 133%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 36%\n- GPU utilization: 145%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 53%\n- GPU utilization: 6%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 63%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 44%\n- GPU utilization: 156%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 61%\n- GPU utilization: 131%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 59%\n- GPU utilization: 289%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 78%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 75%\n- GPU utilization: 22%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 100%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 38%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.81 GHz\n- GPU frequency: 0.62 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 36%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.81 GHz\n- GPU frequency: 0.62 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 29%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.81 GHz\n- GPU frequency: 0.62 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 36%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.81 GHz\n- GPU frequency: 0.62 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 32%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.81 GHz\n- GPU frequency: 0.62 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 34%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.81 GHz\n- GPU frequency: 0.62 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 35%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.81 GHz\n- GPU frequency: 0.62 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 61%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.81 GHz\n- GPU frequency: 0.62 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 48%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.81 GHz\n- GPU frequency: 0.62 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 50%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.81 GHz\n- GPU frequency: 0.62 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 38%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.81 GHz\n- GPU frequency: 0.62 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 34%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.81 GHz\n- GPU frequency: 0.62 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 35%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.81 GHz\n- GPU frequency: 0.62 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 32%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.81 GHz\n- GPU frequency: 0.62 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 37%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.81 GHz\n- GPU frequency: 0.62 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 29%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.81 GHz\n- GPU frequency: 0.62 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 35%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.81 GHz\n- GPU frequency: 0.62 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 30%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.81 GHz\n- GPU frequency: 0.62 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 33%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.81 GHz\n- GPU frequency: 0.62 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 30%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.81 GHz\n- GPU frequency: 0.62 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 42%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.81 GHz\n- GPU frequency: 0.62 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 67%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.81 GHz\n- GPU frequency: 0.62 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 55%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.81 GHz\n- GPU frequency: 0.62 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 63%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.81 GHz\n- GPU frequency: 0.62 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 58%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.0 m/s\n- CPU frequency: 0.81 GHz\n- GPU frequency: 0.62 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 70%\n- GPU utilization: 0%\n- Application requirement pressure: low\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.5 m/s\n- CPU frequency: 0.81 GHz\n- GPU frequency: 0.62 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.0 m/s\n- CPU utilization: 37%\n- GPU utilization: 7%\n- Application requirement pressure: low\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.5 m/s\n- CPU frequency: 0.81 GHz\n- GPU frequency: 0.62 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 51%\n- GPU utilization: 0%\n- Application requirement pressure: low\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.6 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.80 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 50%\n- GPU utilization: 6%\n- Application requirement pressure: low\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.6 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.80 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 82%\n- GPU utilization: 0%\n- Application requirement pressure: low\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.6 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.80 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 43%\n- GPU utilization: 0%\n- Application requirement pressure: low\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.6 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.80 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 63%\n- GPU utilization: 0%\n- Application requirement pressure: moderate\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the moderate application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.6 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.80 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 63%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.1 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 1.24 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 36%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.1 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 1.24 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.2 m/s\n- CPU utilization: 34%\n- GPU utilization: 7%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.2 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 1.12 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.2 m/s\n- CPU utilization: 31%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.2 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 1.12 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.2 m/s\n- CPU utilization: 81%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.2 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 1.12 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.2 m/s\n- CPU utilization: 79%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.2 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 1.12 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.2 m/s\n- CPU utilization: 81%\n- GPU utilization: 7%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.2 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 1.12 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.2 m/s\n- CPU utilization: 79%\n- GPU utilization: 78%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.2 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 1.12 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.2 m/s\n- CPU utilization: 70%\n- GPU utilization: 83%\n- Application requirement pressure: high\n- Battery SOC: 99%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.2 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 1.12 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.2 m/s\n- CPU utilization: 74%\n- GPU utilization: 7%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.2 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 1.12 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.2 m/s\n- CPU utilization: 81%\n- GPU utilization: 2%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.2 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 1.12 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.2 m/s\n- CPU utilization: 67%\n- GPU utilization: 78%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.2 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 1.12 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.2 m/s\n- CPU utilization: 53%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.2 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 1.12 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.2 m/s\n- CPU utilization: 50%\n- GPU utilization: 7%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.2 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 1.12 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.2 m/s\n- CPU utilization: 50%\n- GPU utilization: 78%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.2 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 1.12 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.2 m/s\n- CPU utilization: 45%\n- GPU utilization: 7%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.2 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 1.12 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.2 m/s\n- CPU utilization: 57%\n- GPU utilization: 5%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.2 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 1.12 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.2 m/s\n- CPU utilization: 52%\n- GPU utilization: 78%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.2 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 1.12 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.2 m/s\n- CPU utilization: 53%\n- GPU utilization: 7%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.2 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 1.12 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.2 m/s\n- CPU utilization: 52%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.2 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 1.12 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.2 m/s\n- CPU utilization: 83%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.2 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 1.12 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.2 m/s\n- CPU utilization: 98%\n- GPU utilization: 46%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.2 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 1.12 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 47%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.1 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 45%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.1 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 43%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.1 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 41%\n- GPU utilization: 23%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.1 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 45%\n- GPU utilization: 226%\n- Application requirement pressure: moderate\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the moderate application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.6 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 41%\n- GPU utilization: 23%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.1 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 48%\n- GPU utilization: 23%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.1 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 43%\n- GPU utilization: 48%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.1 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 45%\n- GPU utilization: 292%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.1 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 47%\n- GPU utilization: 210%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.1 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 44%\n- GPU utilization: 282%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.1 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 51%\n- GPU utilization: 240%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.1 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 43%\n- GPU utilization: 15%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.1 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 43%\n- GPU utilization: 23%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.1 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 44%\n- GPU utilization: 22%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.1 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 45%\n- GPU utilization: 0%\n- Application requirement pressure: moderate\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the moderate application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.6 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 46%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.1 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 42%\n- GPU utilization: 23%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.1 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 46%\n- GPU utilization: 33%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.1 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 40%\n- GPU utilization: 167%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.1 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 43%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.1 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 46%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.1 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 45%\n- GPU utilization: 225%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.1 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 46%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.1 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 64%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.1 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 56%\n- GPU utilization: 226%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.1 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 53%\n- GPU utilization: 226%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.1 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 60%\n- GPU utilization: 23%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.1 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 59%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.1 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 45%\n- GPU utilization: 243%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.1 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 44%\n- GPU utilization: 242%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.1 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 44%\n- GPU utilization: 59%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.1 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 52%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.1 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 46%\n- GPU utilization: 126%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.1 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 46%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.1 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 45%\n- GPU utilization: 246%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.1 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 34%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.1 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 43%\n- GPU utilization: 116%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.1 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 47%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.1 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 99%\n- GPU utilization: 227%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.1 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 100%\n- GPU utilization: 223%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption and high GPU utilization increases computational power consumption. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 4.1 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 100%\n- GPU utilization: 0%\n- Application requirement pressure: moderate\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the moderate application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.6 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 4.1 m/s\n- CPU utilization: 99%\n- GPU utilization: 0%\n- Application requirement pressure: moderate\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating at a high driving speed increases mechanical power consumption. Given the moderate application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.6 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 3.9 m/s\n- CPU utilization: 100%\n- GPU utilization: 0%\n- Application requirement pressure: low\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the low application requirement pressure and medium task urgency, energy-efficient adjustments can be applied without violating QoS constraints.\n\nChange behavior:\n- Speed: 2.5 m/s\n- CPU frequency: 0.65 GHz\n- GPU frequency: 0.80 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 3.9 m/s\n- CPU utilization: 100%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 3.9 m/s\n- CPU frequency: 0.65 GHz\n- GPU frequency: 1.03 GHz"
+            }
+        ]
+    },
+    {
+        "conversations": [
+            {
+                "from": "robot",
+                "value": "Robot state:\n- Speed: 3.9 m/s\n- CPU utilization: 99%\n- GPU utilization: 0%\n- Application requirement pressure: high\n- Battery SOC: 98%\n- Battery SOH: 85%"
+            },
+            {
+                "from": "human",
+                "value": "You are an energy-efficiency advisor.\nYour task is to minimize energy consumption while satisfying application QoS."
+            },
+            {
+                "from": "gpt",
+                "value": "Reasoning:\nThe robot is operating under moderate mechanical and computational load. Given the high application requirement pressure, resource adjustments should be conservative to avoid QoS violations.\n\nChange behavior:\n- Speed: 3.9 m/s\n- CPU frequency: 0.50 GHz\n- GPU frequency: 0.32 GHz"
+            }
+        ]
+    }
+]
