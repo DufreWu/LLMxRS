@@ -1,0 +1,32 @@
+# Hint 1:
+If SOC is above 80%, aggressive energy-saving actions are not necessary unless requested by the human.
+
+# Hint 2:
+Unless specified differently by the human, the system should operate in balanced mode, maintaining both acceptable QoS and reasonable energy consumption.
+
+# Hint 3:
+If the throughput is below the required QoS reference, performance must be prioritized.
+
+# Hint 4:
+If the QoS margin is greater than 10% above the required level, performance can be safely reduced to improve energy efficiency.
+
+# Hint 5:
+If SOC is close to the safety threshold, energy-saving strategies should be activated even if performance is acceptable.
+
+# Hint 6:
+Minor throughput fluctuations within 3% of the reference are considered negligible and do not require immediate strategy changes.
+
+# Hint 7:
+If computational power increases without corresponding QoS improvement, the system is operating inefficiently.
+
+# Hint 8:
+Rapid increases in total power without significant task performance change indicate over-provisioning of resources.
+
+# Hint 9:
+If the human requires higher performance, first compare current throughput with the required QoS reference before increasing frequencies.
+
+# Hint 10:
+If no human instruction is given and the system is stable (QoS satisfied, SOC safe), maintain the current strategy.
+
+# Hint 11:
+If conflicting conditions arise (e.g., low SOC and QoS violation), prioritize safety constraints before performance improvement.
