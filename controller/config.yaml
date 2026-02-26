@@ -1,0 +1,38 @@
+# config.yaml
+# ============================================================
+# Global system parameters
+# ============================================================
+
+battery:
+  capacity_ah: 5.0
+  init_soc: 1.0
+
+  voltage_path: "/sys/class/power_supply/BAT0/voltage_now"
+  current_path: "/sys/class/power_supply/BAT0/current_now"
+
+  voltage_scale: 1000.0
+  current_scale: 1000.0
+
+
+motor:
+  mass_kg: 18.0
+  rolling_coeff: 0.015
+  drivetrain_efficiency: 0.90
+  init_speed: 0.0
+
+
+jetson:
+  ina_base: "/sys/bus/i2c/drivers/ina3221/1-0040/hwmon/hwmon2"
+  power_vdd_in: "in1_input"
+
+  cpu_freq_scale: 1000.0
+
+  gpu_freq_path: "/sys/class/devfreq/17000000.gpu/cur_freq"
+  gpu_freq_scale: 1000000.0
+
+  gpu_temp_path: "/sys/devices/virtual/thermal/thermal_zone2/temp"
+  gpu_temp_scale: 1000.0
+
+
+controller:
+  sample_period_s: 1.0
